@@ -1,0 +1,34 @@
+https://iamtrask.github.io/page2/
+
+https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications
+
+http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf
+
+
+http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf # Refer to deep learning course folder
+https://arxiv.org/pdf/1609.04112.pdf #Refer to deep learning folder
+
+https://pdfs.semanticscholar.org/450c/a19932fcef1ca6d0442cbf52fec38fb9d1e5.pdf
+
+http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
+http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf
+
+https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+
+https://www.youtube.com/watch?v=FgakZw6K1QQ
+
+https://www.youtube.com/watch?v=mlaLLQofmR8
+
+http://peterroelants.github.io/posts/neural_network_implementation_intermezzo02/
+
+
+Otherr
+https://towardsdatascience.com/not-just-another-gan-paper-sagan-96e649f01a6b
+
+https://towardsdatascience.com/learning-a-new-data-science-language-aa7656be730a
+
+https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8
+
+https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c
+
+https://plot.ly/ipython-notebooks/principal-component-analysis/
